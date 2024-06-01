@@ -8,6 +8,7 @@ The App "F3FTimerRemoteSwitch" is running on Android mobilephones and can be use
 It can be found at: https://github.com/gerhardf1/F3F-Timer/tree/master/F3FTimerRemoteSwitch
 
 # News
+* 2024-06-01: added some informations in case of range problems
 * 2024-01-14: V0.1 released
 
 # Prerequisite:
@@ -37,3 +38,12 @@ It can be found at: https://github.com/gerhardf1/F3F-Timer/tree/master/F3FTimerR
 * The next run will start automatically.
 * With pressing button "Reset" the time and counters will be resetted.
 * With pressing button "List Rounds" the time for the last rounds are shown.
+
+# range problems
+In case of having range problems the the following items can be used:
+* using a WiFi access point as a hotspot, e.g. Mikrotik wAP, which has several advantages
+  * is suitable for outdoor use
+  * can be powered by a 3s or 4s LiPo battery
+* using a Raspberry Pi with an external WiFi antenna:
+  * informations how to update the Pi can be found here: https://geeks-r-us.de/2019/08/31/wlan-bluetooth-upgrade-fuer-den-rpi-4/
+  * already updated Pi can be bought here: https://geeks-r-us.de/produkt/raspberry-pi-4-mit-u-fl-buchse/
