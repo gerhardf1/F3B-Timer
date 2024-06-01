@@ -1,11 +1,10 @@
 # F3BTimer
-The App "F3BTimer" is running on Android mobilephones and acts as a simple Timer for the piCAMTracker (see https://github.com/barney-NG/piCAMTracker).
+The App "F3BTimer" is running on Android mobilephones and acts as a simple Timer for the [piCAMTracker](https://github.com/barney-NG/piCAMTracker).
 Starting with V0.5 the piCAMTracker sends UDP broadcasts when it is powered and in case a "Turn" is detected.
 The App receives the UDP broadcasts and handles a F3B Speed run.
 
 # F3FTimerRemoteSwitch
-The App "F3FTimerRemoteSwitch" is running on Android mobilephones and can be used instead of piCAMTracker to manually produce "Turn" signals on Base A or B.
-It can be found at: https://github.com/gerhardf1/F3F-Timer/tree/master/F3FTimerRemoteSwitch
+The App [F3FTimerRemoteSwitch](https://github.com/gerhardf1/F3F-Timer/tree/master/F3FTimerRemoteSwitch) is running on Android mobilephones and can be used instead of piCAMTracker to manually produce "Turn" signals on Base A or B.
 
 # News
 * 2024-06-01: added some informations in case of range problems
@@ -45,5 +44,5 @@ In case of having range problems the the following items can be used:
   * is suitable for outdoor use
   * can be powered by a 3s or 4s LiPo battery
 * using a Raspberry Pi with an external WiFi antenna:
-  * informations how to update the Pi can be found here: https://geeks-r-us.de/2019/08/31/wlan-bluetooth-upgrade-fuer-den-rpi-4/
-  * already updated Pi can be bought here: https://geeks-r-us.de/produkt/raspberry-pi-4-mit-u-fl-buchse/
+  * informations how to update the Pi can be found [here](https://geeks-r-us.de/2019/08/31/wlan-bluetooth-upgrade-fuer-den-rpi-4/)
+  * already updated Pi can be bought [here](https://geeks-r-us.de/produkt/raspberry-pi-4-mit-u-fl-buchse/)
